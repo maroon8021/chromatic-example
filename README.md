@@ -14,6 +14,7 @@ yarn add --dev chromatic
 
 # 以下のコマンド実行するにあたって2回くらいコミットしてプッシュしておく必要があった。謎。
 npx chromatic --project-token=xxxxx
+
 ```
 
-62344b5817f6
+https://www.chromatic.com/docs/github-actions
